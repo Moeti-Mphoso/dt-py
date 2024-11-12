@@ -7,4 +7,5 @@ def dt():
 
 if __name__ == "__main__":
     print("Running __main__!")
+    print("start the dt function")
     dt()
